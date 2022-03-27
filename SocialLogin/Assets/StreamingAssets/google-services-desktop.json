@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910833646262",
+    "project_id": "sigin-ec2fa",
+    "storage_bucket": "sigin-ec2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910833646262:android:3817c954ca385f17530417",
+        "android_client_info": {
+          "package_name": "com.test.FreelanceBellImersive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910833646262-73nhd7n4klgidt4js7v80l4g9r3jj6rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.FreelanceBellImersive",
+            "certificate_hash": "3596f210e0a989beada380c761712bb363e6812b"
+          }
+        },
+        {
+          "client_id": "910833646262-fdgmk8evni397gitc7t2g3k47sfeu1sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.FreelanceBellImersive",
+            "certificate_hash": "ab2740a14343ca5b2c5b3b1aa152c10c7b22bc35"
+          }
+        },
+        {
+          "client_id": "910833646262-070ds00peg538q5dak1e3urnr9rmre2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_3twM8h34nCUqZfvGdRR5kMl12j47Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910833646262-070ds00peg538q5dak1e3urnr9rmre2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
